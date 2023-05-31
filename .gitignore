@@ -1,5 +1,6 @@
 /.idea
 /data
+!/data/0.webp
 /dist
 /postgres
 .env
